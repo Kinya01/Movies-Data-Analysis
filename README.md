@@ -1,5 +1,5 @@
 # Movies-Data-Analysis
-[![image.png](attachment:image.png)
+[![image.png]attachment:image.png
 ]https://github.com/[Kinya01]/[Movies-Data-Analysis]/blob/[main]/image.jpg?raw=true
  Movies Data Analysis
  
