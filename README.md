@@ -33,7 +33,7 @@ Additionally, Box Office Mojo also provides news and analysis related to the mov
 # Results
 
 ## Most Favourable Runtime
-![image.png](attachment:image.png)
+![image-2.png](attachment:image-2.png)
 The best runtime was approximately between 90 and 120 minutes. This means, therefore, that microsoft should produce movies running from 90 to 120 minutes to achieve profitable viewership.
 
 
