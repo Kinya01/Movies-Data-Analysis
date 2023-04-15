@@ -1,6 +1,6 @@
 # Movies-Data-Analysis
-![image.png](attachment:image.png)
-
+[![image.png](attachment:image.png)
+](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
  Movies Data Analysis
  
  
