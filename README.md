@@ -33,25 +33,25 @@ Additionally, Box Office Mojo also provides news and analysis related to the mov
 # Results
 
 ## Most Favourable Runtime
-![image-2.png](attachment:image-2.png)
+![image-2.png](https://github.com/Kinya01/Movies-Data-Analysis/blob/main/images/Runtime%20Distribution%20of%20Movies%20with%20ROI.png)
 The best runtime was approximately between 90 and 120 minutes. This means, therefore, that microsoft should produce movies running from 90 to 120 minutes to achieve profitable viewership.
 
 
 ## Top Studios
-![image.png](attachment:image.png)
+![image.png](https://github.com/Kinya01/Movies-Data-Analysis/blob/main/images/Top%2010%20Grossing%20Studios.png)
 
 Affirm studio had the highest domestic earnings, but it only ranked fifth in terms of global earnings among all studios. This suggests that there is a disparity between the top earning studios domestically versus globally. Just because a movie studio performs well domestically, it does not necessarily mean that it will be a top earner on a global scale. Microsoft should therefore consider acquiring one of the top grossing studios globally such as BH Tilt, MBox and Orchard Film Studios
 
 ## Most Favourable Movie Release Months
 
-![image.png](attachment:image.png)
+![image.png](https://github.com/Kinya01/Movies-Data-Analysis/blob/main/images/Average%20ROI%20of%20film%20release%20by%20month.png)
 
 The films that were released during the months of July, June, November and May yielded the greatest Return on Investment (ROI) respectively compared to those released during other months. On the other hand, movies that premiered in September, December, October and April had the lowest ROIs. Microsoft should therefore aim to release their movies in May, June, July and November for the most profitable viewership
 
 
 ## The Most Popular Genres
 
-![image.png](attachment:image.png)
+![image.png](https://github.com/Kinya01/Movies-Data-Analysis/blob/main/images/Distribution%20of%20Film%20Genres.png)
 
 Documentary was found to be the most prevalent genre, accounting for over 35% of the films, followed by drama and comedy.
 Microsoft should therefore consider producing these movies most for profitability
