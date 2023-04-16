@@ -1,6 +1,6 @@
 # Movies-Data-Analysis
-[![image.png].(attachment:image.png)
-]https://github.com/[Kinya01]/[Movies-Data-Analysis]/blob/[main]/image.jpg?raw=true
+![movies](https://github.com/Kinya01/Movies-Data-Analysis/blob/main/download.png?raw=true)
+ 
  Movies Data Analysis
  
  
